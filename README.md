@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Utkarsh Mishra 
-- 👨‍💻 Ist year CS Undergrad at IIIT Lucknow
+- 👨‍💻 3rd Year CS Undergrad at IIIT Lucknow
 - 👀 I’m interested in Contributing in Open Source.
-- 🌱  I’m currently learning ReactJS and C++.
+- 🌱  I enjoy coding in C++.
 
 <!---
 utkarshfelix/utkarshfelix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
